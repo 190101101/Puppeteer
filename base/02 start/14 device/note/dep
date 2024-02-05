@@ -1,0 +1,7 @@
+npm init -y
+npm install puppeteer
+npm install puppeteer@19.4.0
+npm install user-agents
+npm install nedb
+npm install puppeteer-extra
+npm install puppeteer-extra-plugin-stealth

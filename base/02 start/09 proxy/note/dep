@@ -1,0 +1,4 @@
+npm init -y
+npm install puppeteer
+npm install puppeteer@19.4.0
+npm install user-agents
